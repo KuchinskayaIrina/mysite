@@ -2,134 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f60a6e1-a7ef-437c-8722-9903db190ca8" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\monolog\monolog\tests\Monolog\Functional\Handler\FirePHPHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\nesbot\carbon\history.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\APPS" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\CHARSETS" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\message.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc0821.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc0822.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc1341.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc1521.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc1854.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2015.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2045.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2046.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2047.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2048.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2049.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2183.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2222.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2231.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2234.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2440.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2487.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2554.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2821.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc2822.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc3156.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc3676.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4505.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4616.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4870.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4871.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4880.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc4954.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\rfc5751.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\rfc\whats_where.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\vendor\swiftmailer\swiftmailer\notes\smtp.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/.gitattributes" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AbstractMimeEntityTest.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AbstractMimeEntityTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/AbstractPlatform.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/AbstractPlatform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AttachmentTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.mdown" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.mdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/CHANGES" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/CHANGES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/ConstructTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/ConstructTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/DiffTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/DiffTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOPgSql/Driver.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOPgSql/Driver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/Esi.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpCache/Esi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/EsiTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/EsiTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/EventTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Tests/EventTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/FailoverTransportTest.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/FailoverTransportTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/FileSpool.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/FileSpool.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Filesystem.php" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Filesystem.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Tests/FilesystemTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Tests/FilesystemTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Tests/FilesystemTestCase.php" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/Tests/FilesystemTestCase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/GettersTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/GettersTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/HipChatHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/HipChatHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Kernel.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/LegacyApcUniversalClassLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/LegacyApcUniversalClassLoaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/LegacyUniversalClassLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/LegacyUniversalClassLoaderTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/LoadBalancedTransportTest.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/LoadBalancedTransportTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/NewRelicHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/NewRelicHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/OraclePlatform.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/OraclePlatform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/README.mdown" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/README.mdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/RavenHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/RavenHandlerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Registry.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Registry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/RelativeTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/RelativeTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Run.php" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/SMimeSignerTest.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/SMimeSignerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/SQLAzure/SQLAzureFederationsSynchronizer.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Sharding/SQLAzure/SQLAzureFederationsSynchronizer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLServerPlatform.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLServerPlatform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Events/SendEvent.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Events/SendEvent.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/SettersTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/SettersTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMimeEntity.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMimeEntity.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SpoolTransport.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SpoolTransport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/StringsTest.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/StringsTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/TestFixture.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/tests/TestFixture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/VERSION" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/VERSION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/monolog/monolog/composer.json" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/composer.json" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/_samples/smime/create-cert.sh" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/_samples/smime/create-cert.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/multipleNs.php" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/Fixtures/classmap/multipleNs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mysite.iml" afterPath="$PROJECT_DIR$/.idea/mysite.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/iso-2022-jp/one.txt" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/_samples/charsets/iso-2022-jp/one.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Symfony/Component/Filesystem/phpunit.xml.dist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" afterPath="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/Fixtures/php5.4/traits.php" afterPath="$PROJECT_DIR$/vendor/symfony/class-loader/Symfony/Component/ClassLoader/Tests/Fixtures/php5.4/traits.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\mysite\.idea\commandlinetools\Composer_11_03_15_14_57_c.xml" afterPath="" />
     </list>
     <ignored path="mysite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,7 +37,18 @@
     <favorites_list name="mysite" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5652174" vertical-offset="765" max-vertical-offset="2210">
+              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
@@ -181,7 +65,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/database/migrations/2015_02_25_164722_create_users_table.php" />
-        <option value="$PROJECT_DIR$/app/config/database.php" />
         <option value="$PROJECT_DIR$/app/views/planets/add.blade.php" />
         <option value="$PROJECT_DIR$/app/lang/ru/validation.php" />
         <option value="$PROJECT_DIR$/app/views/planets/view.blade.php" />
@@ -220,6 +103,7 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
+        <option value="$PROJECT_DIR$/app/config/database.php" />
       </list>
     </option>
   </component>
@@ -334,6 +218,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -396,16 +298,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27687296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27406198" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21255673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -656,18 +558,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2210">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5652174" vertical-offset="765" max-vertical-offset="2210">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
           <folding />
         </state>
       </provider>
