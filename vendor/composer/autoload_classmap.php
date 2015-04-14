@@ -2029,6 +2029,7 @@ return array(
     'System_SSH_Agent_Identity' => $vendorDir . '/phpseclib/phpseclib/phpseclib/System/SSH/Agent.php',
     'TestCase' => $baseDir . '/app/tests/TestCase.php',
     'UpdateColumnIsadminUsersTable' => $baseDir . '/app/database/migrations/2015_03_24_163626_update_column_isadmin_users_table.php',
+    'UpdateViewsUsersPlanets' => $baseDir . '/app/database/migrations/2015_04_07_172830_update_views_users_planets.php',
     'User' => $baseDir . '/app/models/User.php',
     'UsersController' => $baseDir . '/app/controllers/UsersController.php',
     'Whoops\\Exception\\ErrorException' => $vendorDir . '/filp/whoops/src/Whoops/Exception/ErrorException.php',
