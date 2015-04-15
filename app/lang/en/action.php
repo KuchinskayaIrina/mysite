@@ -22,5 +22,5 @@ return array(
     'register' => 'Register',
     'reset' => 'Reset',
     'update' => 'Update',
-
+    'error' => 'Error',
 );

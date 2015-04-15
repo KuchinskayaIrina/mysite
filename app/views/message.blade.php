@@ -14,7 +14,7 @@
                 10000
             );
         </script>
-        <p class="like-h">Нажмите <a href="{{ $redirect }}">эту ссылку</a>, если ваш браузер не поддерживает автоматический редирект.</p>
+        <p class="like-h">@lang('action.click_redirect', array('redirect' => $redirect))</p>
         @endif
     </div>
 </div>
