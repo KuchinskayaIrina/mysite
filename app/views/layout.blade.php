@@ -33,6 +33,7 @@
     @yield('headExtra')
 </head>
 <body>
+
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -44,6 +45,7 @@
             </button>
             <a class="navbar-brand" href="/">SBShare.ru</a>
         </div>
+
         <div class="navbar-collapse collapse">
             @if (Auth::check())
                 <ul class="nav navbar-nav">
@@ -51,6 +53,21 @@
                     <li><a href="/planets/create">@lang('planet.title_add')</a></li>
                 </ul>
             @endif
+
+            <div class="navbar-form navbar-right dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
+                        aria-expanded="true">
+                    {{LanguageHelper::getCurrent()['name'] }}
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                    @foreach(LanguageHelper::all() as $language)
+                        <li role="presentation"><a role="menuitem" tabindex="-1"
+                                                   href="{{\URL::route('language', ['locale' => $language['locale']]) }}">{{{ $language ['name'] }}}</a>
+                        </li>
+                    @endforeach
+                </ul>
+            </div>
 
             @if (!Auth::check())
                 <form class="navbar-form navbar-right" role="form" action="{{ action('UsersController@postLogin') }}"
@@ -67,7 +84,9 @@
                 </ul>
             @endif
 
+
         </div>
+
         <!--/.navbar-collapse -->
     </div>
 </div>
