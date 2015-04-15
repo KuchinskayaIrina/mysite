@@ -5,6 +5,7 @@
 @stop
 
 @section('content')
+
     <div class="jumbotron">
         <div class="container">
             <h1>@lang('planet.title_index')</h1>

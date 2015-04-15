@@ -27,7 +27,7 @@
     <script src="/js/html5shiv.js"></script>
     <!-- <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>-->
     <script src="/js/respond.min.js"></script>
-    <![endif]-->
+    <!--[endif]-->
 
     <link rel="stylesheet" href="/css/style.css">
     @yield('headExtra')

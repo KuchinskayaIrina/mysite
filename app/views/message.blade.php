@@ -11,7 +11,7 @@
                 function() {
                     location.href = '{{ $redirect }}';
                 },
-                10000
+                5000
             );
         </script>
         <p class="like-h">@lang('action.click_redirect', array('redirect' => $redirect))</p>

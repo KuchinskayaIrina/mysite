@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('title')
-@lang('planet.title_add')
+    @lang('planet.title_add')
 @stop
 
 @section('content')

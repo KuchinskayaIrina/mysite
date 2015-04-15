@@ -12,17 +12,21 @@ class UpdateViewsUsersPlanets extends Migration {
 	 */
 	public function up()
 	{
-        Schema::table('planets', function(Blueprint $table) {
+        Schema::table('planets', function(Blueprint $table)
+        {
             $table->dropColumn('user_id');
             $table->dropColumn('views');
         });
 
-        Schema::table('planets', function(Blueprint $table) {
+        Schema::table('planets', function(Blueprint $table)
+        {
             $table->integer('views')->unsigned()->nullable();
 
             $table->integer('user_id')->unsigned()->nullable();
             $table->foreign('user_id')->references('id')->on('users');
         });
+
+
 	}
 
 	/**
@@ -32,7 +36,7 @@ class UpdateViewsUsersPlanets extends Migration {
 	 */
 	public function down()
 	{
-        Schema::table('planets', function(Blueprint $table) {
+        Schema::table('planets', function (Blueprint $table) {
             $table->dropForeign('planets_user_id_foreign');
             $table->dropColumn('user_id');
         });

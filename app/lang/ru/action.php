@@ -22,5 +22,5 @@ return array(
     'register' => 'Регистрация',
     'reset' => 'Сброс',
     'update' => 'Обновить',
-
+    'error' => 'Ошибка',
 );
