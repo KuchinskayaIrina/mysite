@@ -1341,6 +1341,8 @@ return array(
     'Patchwork\\Utf8\\Bootup' => $vendorDir . '/patchwork/utf8/class/Patchwork/Utf8/Bootup.php',
     'Patchwork\\Utf8\\WindowsStreamWrapper' => $vendorDir . '/patchwork/utf8/class/Patchwork/Utf8/WindowsStreamWrapper.php',
     'Planet' => $baseDir . '/app/models/Planet.php',
+    'PlanetRepository' => $baseDir . '/app/repository/PlanetRepository.php',
+    'PlanetTableSeeder' => $baseDir . '/app/database/seeds/PlanetTableSeeder.php',
     'PlanetsController' => $baseDir . '/app/controllers/PlanetsController.php',
     'Predis\\Autoloader' => $vendorDir . '/predis/predis/lib/Predis/Autoloader.php',
     'Predis\\BasicClientInterface' => $vendorDir . '/predis/predis/lib/Predis/BasicClientInterface.php',
