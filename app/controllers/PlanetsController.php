@@ -45,6 +45,9 @@ class PlanetsController extends \BaseController
         if (Auth::check()) {
             $data['user_id'] = Auth::user()->id;
         }
+
+        $data['image'] = PlanetRepository::uploadImage();
+
         $planet = Planet::create($data);
         return Redirect::to(action('PlanetsController@show', array($planet->id)));
     }
@@ -170,6 +173,7 @@ class PlanetsController extends \BaseController
         $planet->version = $data['version'];
         $planet->os = $data['os'];
         $planet->comment = $data['comment'];
+        $data['image'] = PlanetRepository::uploadImage($planet);
         $planet->save();
 
         return Redirect::to(action('PlanetsController@show', array($planet->id)));
