@@ -1,6 +1,12 @@
 <?php
 
-class AdminController extends BaseController
+namespace admin;
+
+use Sector;
+use Star;
+use Planet;
+
+class AdminController extends \BaseController
 {
 
     public function test()
@@ -38,4 +44,19 @@ class AdminController extends BaseController
 
         return null;
     }
+
+    public function index()
+    {
+        $countSectors = Sector:: count();
+        $countStars = Star:: count();
+        $countPlanets = Planet:: count();
+
+        return \View::make('admin.control', [
+            'sectors' => $countSectors,
+            'stars' => $countStars,
+            'planets' => $countPlanets,
+        ]);
+
+    }
+
 }

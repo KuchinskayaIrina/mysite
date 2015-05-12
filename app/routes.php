@@ -28,11 +28,33 @@ Route::get('/language/{locale}', [
 ]);
 
 Route::group([
-
+    'namespace' => 'admin',
     'before' => 'auth',
 ], function () {
+
     Route::get('admin/test', [
-        'as' => 'test',
+        'as' => 'admin_test',
         'uses' => 'AdminController@test',
     ]);
+
+    Route::get('admin/control', [
+        'as' => 'admin_control',
+        'uses' => 'AdminController@index',
+    ]);
+
+    Route::get('admin/sectors', [
+        'as' => 'admin_sectors_show',
+        'uses' => 'SectorController@index',
+    ]);
+
+    Route::get('admin/stars', [
+        'as' => 'admin_stars_show',
+        'uses' => 'StarController@index',
+    ]);
+
+    Route::get('admin/planets', [
+        'as' => 'admin_planets_show',
+        'uses' => 'PlanetController@index',
+    ]);
 });
+
