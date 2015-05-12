@@ -3,10 +3,7 @@
 class Planet extends Eloquent {
 
     protected $fillable = array(
-        'sector',
         'level',
-        'star',
-        'system',
         'planet',
         'biome',
         'x',
@@ -16,14 +13,7 @@ class Planet extends Eloquent {
         'comment',
         'user_id',
         'image',
-    );
-
-    public static $sectors = array(
-        'alpha' => 'Alpha',
-        'beta'  => 'Beta',
-        'gamma' => 'Gamma',
-        'delta' => 'Delta',
-        'x'     => 'X',
+        'star_id',
     );
 
     public static $bioms = array(
@@ -55,15 +45,15 @@ class Planet extends Eloquent {
     public static function getValidationRules() {
         $validation = array(
             'level'     => 'required|integer|min:1|max:10',
-            'star'      => 'required',
-            'system'    => 'required',
+           // 'star'      => 'required',
+           // 'system'    => 'required',
             'planet'    => 'required',
             'x'         => 'required|integer',
             'y'         => 'required|integer',
             'comment'   => 'required',
         );
 
-        $validation['sector']   = 'required|in:' . implode(',', array_keys(self::$sectors));
+       // $validation['sector']   = 'required|in:' . implode(',', array_keys(self::$sectors));
         $validation['biome']    = 'required|in:' . implode(',', array_keys(self::$bioms));
         $validation['version']  = 'required|in:' . implode(',', array_keys(self::$versions));
         $validation['os']       = 'required|in:' . implode(',', array_keys(self::$oses));
@@ -89,5 +79,15 @@ class Planet extends Eloquent {
         }
 
         return false;
+    }
+
+    /**
+     * Return star
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function star()
+    {
+        return $this->belongsTo('Star', 'star_id');
     }
 }
